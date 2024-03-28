@@ -1,1 +1,2 @@
 # Jtdx-lv-translate
+Latviskošana
