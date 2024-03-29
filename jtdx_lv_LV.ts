@@ -149,7 +149,12 @@ Formats:
 	hostname:port
 	IPv4-address:port
 	[IPv6-address]:port</source>
-        <translation type="unfinished"></translation>
+        <translation>Pēc izvēles resursdatora nosaukums un TCI pakalpojuma ports.
+Atstājiet tukšu, lai šajā ierīcē iestatītu saprātīgu noklusējuma iestatījumu.
+Formāti:
+	resursdatora nosaukums: ports
+	IPv4 adrese: ports
+	[IPv6 adrese]: ports</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3171"/>
@@ -220,22 +225,22 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="5129"/>
         <source>Error Loading CTY.DAT</source>
-        <translation type="unfinished"></translation>
+        <translation>Kļūda, ielādējot CTY.DAT</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5162"/>
         <source>Error Loading state_data.bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot status_data.bin, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5195"/>
         <source>Error Loading grid_data.bin</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot grid_data.bin, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5228"/>
         <source>Error Loading lotw-user-activity.csv</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot lotw-user-activity.csv, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5244"/>
@@ -273,12 +278,12 @@ Formāts:
     <message>
         <location filename="../Configuration.cpp" line="5922"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with the loaded ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atmest pašreizējās darba frekvences un aizstāt tās ar ielādētām?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5934"/>
         <source>Merge Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Apvienojiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5961"/>
