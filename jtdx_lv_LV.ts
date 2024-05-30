@@ -2273,12 +2273,12 @@ Formāts:
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="51"/>
         <source>File</source>
-        <translation type="unfinished">Fails</translation>
+        <translation>Fails</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="51"/>
         <source>Progress</source>
-        <translation type="unfinished"></translation>
+        <translation>Progress</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/Directory.cpp" line="115"/>
@@ -2376,19 +2376,22 @@ Error: %2 - %3</source>
         <location filename="../FileDownload.cpp" line="98"/>
         <source>Network Error - SSL/TLS support not installed, cannot fetch:
 &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla kļūda — SSL/TLS atbalsts nav instalēts, nevar ienest:
+&apos;% 1&apos;</translation>
     </message>
     <message>
         <location filename="../FileDownload.cpp" line="110"/>
         <source>Network Error - Too many redirects:
 &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla kļūda - pārāk daudz novirzīšanas:
+&apos;% 1&apos;</translation>
     </message>
     <message>
         <location filename="../FileDownload.cpp" line="124"/>
         <source>Network Error:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla kļūda:
+%1</translation>
     </message>
 </context>
 <context>
@@ -2548,27 +2551,27 @@ Error: %2 - %3</source>
         <location filename="../HamlibTransceiver.cpp" line="219"/>
         <location filename="../HamlibTransceiver.cpp" line="309"/>
         <source>Hamlib initialisation error</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib inicializācijas kļūda</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="264"/>
         <source>Command completed successfully</source>
-        <translation type="unfinished"></translation>
+        <translation>Komanda veiksmīgi izpildīta</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="265"/>
         <source>Invalid parameter</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs parametrs</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="266"/>
         <source>Invalid configuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīga konfigurācija</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="267"/>
         <source>Memory shortage</source>
-        <translation type="unfinished"></translation>
+        <translation>Atmiņas trūkums</translation>
     </message>
     <message>
         <location filename="../HamlibTransceiver.cpp" line="268"/>
@@ -5789,27 +5792,27 @@ Error(%2): %3</source>
     <message>
         <location filename="../SampleDownloader.cpp" line="115"/>
         <source>Base URL for samples:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pamata URL paraugiem:</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="116"/>
         <source>Only use HTTP:</source>
-        <translation type="unfinished"></translation>
+        <translation>Izmantojiet tikai HTTP:</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="117"/>
         <source>Check this if you get SSL/TLS errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārbaudiet šo, ja tiek parādītas SSL/TLS kļūdas</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="135"/>
         <source>Input Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ievades kļūda</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="135"/>
         <source>Invalid URL format</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederīgs URL formāts</translation>
     </message>
 </context>
 <context>
