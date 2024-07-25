@@ -98,13 +98,13 @@ Another application may be locking the directory</source>
         <location filename="../Configuration.cpp" line="1762"/>
         <location filename="../Configuration.cpp" line="1814"/>
         <source>&amp;Delete</source>
-        <translation>Dzēst</translation>
+        <translation>&amp;Dzēst</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1766"/>
         <location filename="../Configuration.cpp" line="1818"/>
         <source>&amp;Insert ...</source>
-        <translation>Ievietot ...</translation>
+        <translation>&amp;Ievietot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1770"/>
@@ -114,7 +114,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1774"/>
         <source>&amp;Save as ...</source>
-        <translation>Saglabāt kā ...</translation>
+        <translation>&amp;Saglabāt kā ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1778"/>
@@ -129,7 +129,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="2793"/>
         <source>Hamlib Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib Versija</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3174"/>
@@ -256,36 +256,40 @@ Formāts:
         <location filename="../Configuration.cpp" line="5312"/>
         <location filename="../Configuration.cpp" line="5383"/>
         <source>Hamlib update only available on Mac or Windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib atjauninājums pieejams tikai operētājsistēmā Mac vai Windows.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5320"/>
         <source>Error Loading libhamlib-4.dll</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot failu libhamlib-4.dll, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5322"/>
         <source>Error Loading libhamlib.4.dylib</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot failu libhamlib.4.dylib, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5344"/>
         <source>Hamlib Update successful 
 
 New Hamlib will be used after restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib atjaunināšana ir veiksmīga
+
+Jaunais Hamlibs tiks izmantots pēc restartēšanas</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5375"/>
         <source>Hamlib successfully reverted 
 
 Reverted Hamlib will be used after restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlibs veiksmīgi atgriezās
+
+Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5380"/>
         <source>No Hamlib update found that could be reverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Netika atrasts neviens Hamlib atjauninājums, ko varētu atsaukt</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5532"/>
@@ -330,12 +334,12 @@ Reverted Hamlib will be used after restart</source>
         <location filename="../Configuration.cpp" line="6138"/>
         <location filename="../Configuration.cpp" line="6148"/>
         <source>Not a valid frequencies file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav derīgs frekvenču fails</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6129"/>
         <source>Incorrect file magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepareiza failu maģija</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6138"/>
@@ -350,27 +354,27 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../Configuration.cpp" line="6158"/>
         <source>Save Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabājiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6168"/>
         <source>Only Save Selected  Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabājiet tikai atlasītās darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6170"/>
         <source>Are you sure you want to save only the working frequencies that are currently selected? Click No to save all.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties saglabāt tikai pašlaik atlasītās darba frekvences? Noklikšķiniet uz Nē, lai saglabātu visu.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6197"/>
         <source>Reset Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Atiestatīt darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6199"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atmest pašreizējās darba frekvences un aizstāt tās ar noklusējuma frekvencēm?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6259"/>
@@ -718,7 +722,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="102"/>
         <source>United Arab Emirates</source>
-        <translation>Apvienotie Arābu Emirāti </translation>
+        <translation>Apvienotie Arābu Emirāti</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="103"/>
@@ -748,7 +752,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="108"/>
         <source>Pratas Is.</source>
-        <translation>Pratas sala</translation>
+        <translation>Pratas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="109"/>
@@ -793,12 +797,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="117"/>
         <source>Easter Is.</source>
-        <translation>Lieldienu sala</translation>
+        <translation>Lieldienu sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="118"/>
         <source>Juan Fernandez Is.</source>
-        <translation>Huana Fernadesa salas</translation>
+        <translation>Huana Fernadesa salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="119"/>
@@ -828,7 +832,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="124"/>
         <source>Madeira Is.</source>
-        <translation>Madeiras sala</translation>
+        <translation>Madeiras sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="125"/>
@@ -843,12 +847,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="127"/>
         <source>Sable Is.</source>
-        <translation>Sable sala</translation>
+        <translation>Sable sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="128"/>
         <source>St. Paul Is.</source>
-        <translation>Svētā Paula sala</translation>
+        <translation>Svētā Paula sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="129"/>
@@ -888,12 +892,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="136"/>
         <source>N. Cook Is.</source>
-        <translation>Ziemeļu Kuka sala</translation>
+        <translation>Ziemeļu Kuka sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="137"/>
         <source>S. Cook Is.</source>
-        <translation>Dienvidu Kuka sala</translation>
+        <translation>Dienvidu Kuka sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="138"/>
@@ -918,7 +922,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="142"/>
         <source>Canary Is.</source>
-        <translation>Kanāriju Salas</translation>
+        <translation>Kanāriju Salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="143"/>
@@ -1008,7 +1012,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="160"/>
         <source>Chesterfield Is.</source>
-        <translation>Česterfīldas salas</translation>
+        <translation>Česterfīldas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="161"/>
@@ -1023,17 +1027,17 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="163"/>
         <source>Austral Is.</source>
-        <translation>Austrālijas salas</translation>
+        <translation>Austrālijas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="164"/>
         <source>Clipperton Is.</source>
-        <translation>Klipertona sala</translation>
+        <translation>Klipertona sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="165"/>
         <source>Marquesas Is.</source>
-        <translation>Marķīza salas</translation>
+        <translation>Marķīza salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="166"/>
@@ -1053,7 +1057,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="169"/>
         <source>Glorioso Is.</source>
-        <translation>Glorjēzu salas</translation>
+        <translation>Glorjēzu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="170"/>
@@ -1068,22 +1072,22 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="172"/>
         <source>Crozet Is.</source>
-        <translation>Krozetas salas</translation>
+        <translation>Krozetas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="173"/>
         <source>Kerguelen Is.</source>
-        <translation>Kerguelena sala</translation>
+        <translation>Kerguelena sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="174"/>
         <source>Amsterdam &amp; St. Paul Is.</source>
-        <translation>Amsterdamas un Senpola salas</translation>
+        <translation>Amsterdamas un Senpola salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="175"/>
         <source>Wallis &amp; Futuna Is.</source>
-        <translation>Volisa un Futunas salas</translation>
+        <translation>Volisa un Futunas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="176"/>
@@ -1163,7 +1167,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="191"/>
         <source>Galapagos Is.</source>
-        <translation>Galapagu salas</translation>
+        <translation>Galapagu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="192"/>
@@ -1188,7 +1192,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="196"/>
         <source>Malpelo Is.</source>
-        <translation>Malpelo sala</translation>
+        <translation>Malpelo sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="197"/>
@@ -1298,7 +1302,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="218"/>
         <source>Bear Is.</source>
-        <translation>Lāču sala</translation>
+        <translation>Lāču sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="219"/>
@@ -1313,7 +1317,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="221"/>
         <source>U.S.A.</source>
-        <translation>Amerikas Savienotās Valstis</translation>
+        <translation>Amerikas Savienotās Valstis.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="222"/>
@@ -1328,7 +1332,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="224"/>
         <source>Baker &amp; Howland Is.</source>
-        <translation>Hovlenda un Beikera salas</translation>
+        <translation>Hovlenda un Beikera salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="225"/>
@@ -1338,12 +1342,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="226"/>
         <source>Johnston Is.</source>
-        <translation>Džonstona sala</translation>
+        <translation>Džonstona sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="227"/>
         <source>Midway Is.</source>
-        <translation>Pusceļā salas</translation>
+        <translation>Pusceļā salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="228"/>
@@ -1358,7 +1362,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="230"/>
         <source>Kure Is.</source>
-        <translation>Kure sala</translation>
+        <translation>Kure sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="231"/>
@@ -1368,7 +1372,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="232"/>
         <source>Swains Is.</source>
-        <translation>Svainsa sala</translation>
+        <translation>Svainsa sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="233"/>
@@ -1383,12 +1387,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="235"/>
         <source>Navassa Is.</source>
-        <translation>Navasas sala</translation>
+        <translation>Navasas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="236"/>
         <source>US Virgin Is.</source>
-        <translation>Amerikas Savienoto Valstu Virdžīnu salas</translation>
+        <translation>Amerikas Savienoto Valstu Virdžīnu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="237"/>
@@ -1643,7 +1647,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="287"/>
         <source>Banaba Is.</source>
-        <translation>Banana sala</translation>
+        <translation type="unfinished">Banana sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="288"/>
@@ -1688,7 +1692,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="296"/>
         <source>Cocos Is.</source>
-        <translation>Kokosu Salas</translation>
+        <translation>Kokosu Salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="297"/>
@@ -1703,7 +1707,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="299"/>
         <source>C. African Rep.</source>
-        <translation>Centrālāfrikas Republika</translation>
+        <translation>Centrālāfrikas Republika.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="300"/>
@@ -1793,7 +1797,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="317"/>
         <source>Marshall Is.</source>
-        <translation>Maršalu salas </translation>
+        <translation>Maršalu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="318"/>
@@ -1813,12 +1817,12 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../logbook/countrydat.cpp" line="321"/>
         <source>Heard Is.</source>
-        <translation>Hērda sala</translation>
+        <translation>Hērda sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="322"/>
         <source>Macquarie Is.</source>
-        <translation>Makvorija sala</translation>
+        <translation>Makvorija sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="323"/>
@@ -3024,7 +3028,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="305"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Štats</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="315"/>
