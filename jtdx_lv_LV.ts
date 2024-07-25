@@ -78,8 +78,8 @@
 %1
 Another application may be locking the directory</source>
         <translation>Kļūda izveidojot pagaidu direktoriju:
-% 1
- Cita programma var bloķēt direktoriju</translation>
+%1
+Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1543"/>
@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1770"/>
         <source>&amp;Load ...</source>
-        <translation>Ielādēt</translation>
+        <translation>Ielādēt ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1774"/>
@@ -407,7 +407,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="39"/>
         <source>Spratly Is.</source>
-        <translation>Spratlija sala</translation>
+        <translation>Spratlija sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="40"/>
@@ -427,7 +427,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="43"/>
         <source>Rodriguez Is.</source>
-        <translation>Rodrigesa sala</translation>
+        <translation>Rodrigesa sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="44"/>
@@ -437,7 +437,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="45"/>
         <source>Annobon Is.</source>
-        <translation>Annobona sala</translation>
+        <translation>Annobona sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="46"/>
@@ -452,7 +452,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="48"/>
         <source>Rotuma Is.</source>
-        <translation>Rotuma sala</translation>
+        <translation>Rotuma sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="49"/>
@@ -482,7 +482,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="54"/>
         <source>Peter 1 Is.</source>
-        <translation>Pētera I sala</translation>
+        <translation>Pētera I sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="55"/>
@@ -1647,7 +1647,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="287"/>
         <source>Banaba Is.</source>
-        <translation type="unfinished">Banana sala.</translation>
+        <translation>Banana sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="288"/>
@@ -1827,12 +1827,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="323"/>
         <source>Cocos (Keeling) Is.</source>
-        <translation>Kokosu Salas </translation>
+        <translation>Kokosu Salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="324"/>
         <source>Lord Howe Is.</source>
-        <translation>Lorda Hava sala </translation>
+        <translation>Lorda Hava sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="325"/>
@@ -1842,12 +1842,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="326"/>
         <source>Norfolk Is.</source>
-        <translation>Notfolkas sala</translation>
+        <translation>Notfolkas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="327"/>
         <source>Willis Is.</source>
-        <translation>Vilisa sala</translation>
+        <translation>Vilisa sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="328"/>
@@ -1867,17 +1867,17 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="331"/>
         <source>British Virgin Is.</source>
-        <translation>Britu Virdžīnu salas</translation>
+        <translation>Britu Virdžīnu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="332"/>
         <source>Turks &amp; Caicos Is.</source>
-        <translation>Tērksas un Kaikosas salas</translation>
+        <translation>Tērksas un Kaikosas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="333"/>
         <source>Pitcairn Is.</source>
-        <translation>Pitkērna salas</translation>
+        <translation>Pitkērna salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="334"/>
@@ -1887,27 +1887,27 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="335"/>
         <source>Falkland Is.</source>
-        <translation>Folklenda salas</translation>
+        <translation>Folklenda salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="336"/>
         <source>S. Georgia Is.</source>
-        <translation>Dienvidsendviču salas</translation>
+        <translation>Dienvidsendviču salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="337"/>
         <source>S. Shetland Is.</source>
-        <translation>Dienvidšetlendas salas</translation>
+        <translation>Dienvidšetlendas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="338"/>
         <source>S. Orkney Is.</source>
-        <translation>Dienvidorkneju salas</translation>
+        <translation>Dienvidorkneju salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="339"/>
         <source>S. Sandwich Is.</source>
-        <translation>Dienvidsendviču Salas</translation>
+        <translation>Dienvidsendviču Salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="340"/>
@@ -1917,7 +1917,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="341"/>
         <source>Chagos Is.</source>
-        <translation>Chagos arhipelāgs</translation>
+        <translation>Chagos arhipelāgs.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="342"/>
@@ -1932,12 +1932,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="344"/>
         <source>Andaman &amp; Nicobar Is.</source>
-        <translation>Andamanu un Nikobaru salas</translation>
+        <translation>Andamanu un Nikobaru salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="345"/>
         <source>Lakshadweep Is.</source>
-        <translation>Lakšadvīpa</translation>
+        <translation>Lakšadvīpa sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="346"/>
@@ -2032,7 +2032,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="364"/>
         <source>Aves Is.</source>
-        <translation>Avesas sala</translation>
+        <translation>Avesas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="365"/>
@@ -2077,7 +2077,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="373"/>
         <source>Ascension Is.</source>
-        <translation>Debesbraukšanas sala</translation>
+        <translation>Debesbraukšanas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="374"/>
@@ -2087,12 +2087,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="375"/>
         <source>Cayman Is.</source>
-        <translation>Kaimanu salas</translation>
+        <translation>Kaimanu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="376"/>
         <source>Tokelau Is.</source>
-        <translation>Tokelau salas</translation>
+        <translation>Tokelau salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="377"/>
@@ -2102,17 +2102,17 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="378"/>
         <source>Chatham Is.</source>
-        <translation>Četema salas</translation>
+        <translation>Četema salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="379"/>
         <source>Kermadec Is.</source>
-        <translation>Kermadeka salas</translation>
+        <translation>Kermadeka salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="380"/>
         <source>N.Z. Subantarctic Is.</source>
-        <translation>Jaunzēlandes Subantarktikas salas</translation>
+        <translation>Jaunzēlandes Subantarktikas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="381"/>
@@ -2127,7 +2127,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="383"/>
         <source>Pr. Edward &amp; Marion Is.</source>
-        <translation>Prinča Edvarda salas</translation>
+        <translation>Prinča Edvarda salas.</translation>
     </message>
 </context>
 <context>
@@ -2517,28 +2517,28 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="162"/>
         <source>Failed to open file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās atvērt failu &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="177"/>
         <location filename="../HRDTransceiver.cpp" line="201"/>
         <source>Ham Radio Deluxe: no rig found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: iekārta nav atrasta</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: iekārta neatbalsta režīmu</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="444"/>
         <source>Ham Radio Deluxe: sent an unrecognised mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: nosūtīts neatpazīts režīms</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="479"/>
         <source>Ham Radio Deluxe: item not found in %1 dropdown list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: vienums nav atrasts %1 nolaižamajā sarakstā</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="523"/>
@@ -2586,7 +2586,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1173"/>
         <source>Ham Radio Deluxe didn&apos;t respond to command &quot;%1&quot; as expected</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
