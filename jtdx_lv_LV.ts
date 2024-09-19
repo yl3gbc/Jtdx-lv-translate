@@ -98,13 +98,13 @@ Another application may be locking the directory</source>
         <location filename="../Configuration.cpp" line="1762"/>
         <location filename="../Configuration.cpp" line="1814"/>
         <source>&amp;Delete</source>
-        <translation>Dzēst</translation>
+        <translation>&amp;Dzēst</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1766"/>
         <location filename="../Configuration.cpp" line="1818"/>
         <source>&amp;Insert ...</source>
-        <translation>Ievietot ...</translation>
+        <translation>.&amp;Ievietot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1770"/>
@@ -114,22 +114,22 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1774"/>
         <source>&amp;Save as ...</source>
-        <translation>Saglabāt kā ...</translation>
+        <translation>&amp;Saglabāt kā ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1778"/>
         <source>&amp;Merge ...</source>
-        <translation>Apvienot</translation>
+        <translation>&amp;Apvienot ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1782"/>
         <source>&amp;Reset</source>
-        <translation>Nomest</translation>
+        <translation>&amp;Nomest </translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2793"/>
         <source>Hamlib Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib versija</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="3174"/>
