@@ -6797,12 +6797,12 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="419"/>
         <source>Append DXCC names to decoded messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienojiet dekodētajiem ziņojumiem DXCC nosaukumus.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="422"/>
         <source>Show &amp;DXCC names</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt &amp;DXCC nosaukumus</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="429"/>
