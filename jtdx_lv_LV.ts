@@ -9485,7 +9485,7 @@ soundcard changes</source>
     <message>
         <location filename="../wf_palette_design_dialog.ui" line="23"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Double click a color to edit it.&lt;/p&gt;&lt;p&gt;Right click to insert or delete colors.&lt;/p&gt;&lt;p&gt;Colors at the top represent weak signals&lt;/p&gt;&lt;p&gt;and colors at the bottom represent strong&lt;/p&gt;&lt;p&gt;signals. You can have up to 256 colors.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Lai to rediģētu, veiciet dubultklikšķi uz krāsas.&lt;/p&gt;&lt;p&gt;Ar peles labo pogu noklikšķiniet, lai ievietotu vai dzēstu krāsas.&lt;/p&gt;&lt;p&gt;Augšdaļā esošās krāsas norāda uz vājiem signāliem. &lt;/p&gt;&lt;p&gt;un krāsas apakšā apzīmē spēcīgus&lt;/p&gt;&lt;p&gt;signālus. Var būt līdz 256&#xa0;krāsām.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 </TS>
