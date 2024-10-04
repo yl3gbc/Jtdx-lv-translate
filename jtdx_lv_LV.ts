@@ -407,7 +407,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="39"/>
         <source>Spratly Is.</source>
-        <translation>Spratlija sala</translation>
+        <translation>Spratlija sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="40"/>
@@ -427,7 +427,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="43"/>
         <source>Rodriguez Is.</source>
-        <translation>Rodrigesa sala</translation>
+        <translation>Rodrigesa sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="44"/>
@@ -437,7 +437,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="45"/>
         <source>Annobon Is.</source>
-        <translation>Annobona sala</translation>
+        <translation>Annobona sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="46"/>
@@ -452,7 +452,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="48"/>
         <source>Rotuma Is.</source>
-        <translation>Rotuma sala</translation>
+        <translation>Rotuma sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="49"/>
@@ -482,7 +482,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="54"/>
         <source>Peter 1 Is.</source>
-        <translation>Pētera I sala</translation>
+        <translation>Pētera I sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="55"/>
@@ -722,7 +722,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="102"/>
         <source>United Arab Emirates</source>
-        <translation>Apvienotie Arābu Emirāti </translation>
+        <translation>Apvienotie Arābu Emirāti</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="103"/>
@@ -752,7 +752,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="108"/>
         <source>Pratas Is.</source>
-        <translation>Pratas sala</translation>
+        <translation>Pratas sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="109"/>
@@ -797,12 +797,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="117"/>
         <source>Easter Is.</source>
-        <translation>Lieldienu sala</translation>
+        <translation>Lieldienu sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="118"/>
         <source>Juan Fernandez Is.</source>
-        <translation>Huana Fernadesa salas</translation>
+        <translation>Huana Fernadesa salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="119"/>
@@ -832,7 +832,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="124"/>
         <source>Madeira Is.</source>
-        <translation>Madeiras sala</translation>
+        <translation>Madeiras sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="125"/>
@@ -847,12 +847,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="127"/>
         <source>Sable Is.</source>
-        <translation>Sable sala</translation>
+        <translation>Sable sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="128"/>
         <source>St. Paul Is.</source>
-        <translation>Svētā Paula sala</translation>
+        <translation>Svētā Paula sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="129"/>
@@ -892,12 +892,12 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="136"/>
         <source>N. Cook Is.</source>
-        <translation>Ziemeļu Kuka sala</translation>
+        <translation>Ziemeļu Kuka sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="137"/>
         <source>S. Cook Is.</source>
-        <translation>Dienvidu Kuka sala</translation>
+        <translation>Dienvidu Kuka sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="138"/>
@@ -922,7 +922,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="142"/>
         <source>Canary Is.</source>
-        <translation>Kanāriju Salas</translation>
+        <translation>Kanāriju Salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="143"/>
@@ -1012,7 +1012,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="160"/>
         <source>Chesterfield Is.</source>
-        <translation>Česterfīldas salas</translation>
+        <translation>Česterfīldas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="161"/>
@@ -1027,17 +1027,17 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="163"/>
         <source>Austral Is.</source>
-        <translation>Austrālijas salas</translation>
+        <translation>Austrālijas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="164"/>
         <source>Clipperton Is.</source>
-        <translation>Klipertona sala</translation>
+        <translation>Klipertona sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="165"/>
         <source>Marquesas Is.</source>
-        <translation>Marķīza salas</translation>
+        <translation>Marķīza salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="166"/>
@@ -1057,7 +1057,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="169"/>
         <source>Glorioso Is.</source>
-        <translation>Glorjēzu salas</translation>
+        <translation>Glorjēzu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="170"/>
@@ -1072,22 +1072,22 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="172"/>
         <source>Crozet Is.</source>
-        <translation>Krozetas salas</translation>
+        <translation>Krozetas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="173"/>
         <source>Kerguelen Is.</source>
-        <translation>Kerguelena sala</translation>
+        <translation>Kerguelena sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="174"/>
         <source>Amsterdam &amp; St. Paul Is.</source>
-        <translation>Amsterdamas un Senpola salas</translation>
+        <translation>Amsterdamas un Senpola salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="175"/>
         <source>Wallis &amp; Futuna Is.</source>
-        <translation>Volisa un Futunas salas</translation>
+        <translation>Volisa un Futunas salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="176"/>
@@ -1167,7 +1167,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="191"/>
         <source>Galapagos Is.</source>
-        <translation>Galapagu salas</translation>
+        <translation>Galapagu salas.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="192"/>
@@ -1192,7 +1192,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="196"/>
         <source>Malpelo Is.</source>
-        <translation>Malpelo sala</translation>
+        <translation>Malpelo sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="197"/>
@@ -1302,7 +1302,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="218"/>
         <source>Bear Is.</source>
-        <translation>Lāču sala</translation>
+        <translation>Lāču sala.</translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="219"/>
@@ -2422,14 +2422,14 @@ Error: %2 - %3</source>
         <source>Network Error - SSL/TLS support not installed, cannot fetch:
 &apos;%1&apos;</source>
         <translation>Tīkla kļūda — SSL/TLS atbalsts nav instalēts, nevar ienest:
-&apos;% 1&apos;</translation>
+&apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../FileDownload.cpp" line="110"/>
         <source>Network Error - Too many redirects:
 &apos;%1&apos;</source>
         <translation>Tīkla kļūda - pārāk daudz novirzīšanas:
-&apos;% 1&apos;</translation>
+&apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../FileDownload.cpp" line="124"/>
@@ -2518,13 +2518,13 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="162"/>
         <source>Failed to open file &quot;%1&quot;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neizdevās atvērt failu &quot;%1&quot;: %2.</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="177"/>
         <location filename="../HRDTransceiver.cpp" line="201"/>
         <source>Ham Radio Deluxe: no rig found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: iekārta nav atrasta</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
@@ -5888,61 +5888,61 @@ Error(%2): %3</source>
         <location filename="../showqsos.ui" line="38"/>
         <location filename="../showqsos.ui" line="159"/>
         <source>Call</source>
-        <translation type="unfinished">Izsaukuma signāls</translation>
+        <translation>Izsaukuma signāls</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="55"/>
         <location filename="../showqsos.ui" line="149"/>
         <source>Grid</source>
-        <translation type="unfinished">Lokātors</translation>
+        <translation>Lokātors</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="72"/>
         <location filename="../showqsos.ui" line="139"/>
         <source>DXCC</source>
-        <translation type="unfinished"></translation>
+        <translation>DXCC</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="177"/>
         <source> CQZ</source>
-        <translation type="unfinished"></translation>
+        <translation> CQZ</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="134"/>
         <location filename="../showqsos.ui" line="194"/>
         <source>ITUZ</source>
-        <translation type="unfinished"></translation>
+        <translation>ITUZ</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="89"/>
         <location filename="../showqsos.ui" line="124"/>
         <source>Cont</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontinents</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="112"/>
         <source>Which worked count to show.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas strādāja skaits, lai parādītu.</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="119"/>
         <source>None</source>
-        <translation type="unfinished">Nav</translation>
+        <translation>Nav</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="129"/>
         <source>CQZ</source>
-        <translation type="unfinished"></translation>
+        <translation>COZ</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="144"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Štats</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="154"/>
         <source>Pfx</source>
-        <translation type="unfinished"></translation>
+        <translation>Pfx</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="167"/>
@@ -5952,32 +5952,32 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="211"/>
         <source>Band</source>
-        <translation type="unfinished">Diapazons</translation>
+        <translation>Diapazons</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="221"/>
         <source> FT8</source>
-        <translation type="unfinished"></translation>
+        <translation> FT8</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="231"/>
         <source> FT4</source>
-        <translation type="unfinished"></translation>
+        <translation> FT4</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="241"/>
         <source>JT65</source>
-        <translation type="unfinished">JT65</translation>
+        <translation>JT65</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="251"/>
         <source> JT9</source>
-        <translation type="unfinished"></translation>
+        <translation> JT9</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="261"/>
         <source> T10</source>
-        <translation type="unfinished"></translation>
+        <translation> T10</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="271"/>
@@ -5987,72 +5987,72 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="281"/>
         <source>160m</source>
-        <translation type="unfinished">160m</translation>
+        <translation>160m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="351"/>
         <source>80m</source>
-        <translation type="unfinished">80m</translation>
+        <translation>80m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="421"/>
         <source>60m</source>
-        <translation type="unfinished">60m</translation>
+        <translation>60m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="491"/>
         <source>40m</source>
-        <translation type="unfinished">40m</translation>
+        <translation>40m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="561"/>
         <source>30m</source>
-        <translation type="unfinished">30m</translation>
+        <translation>30m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="631"/>
         <source>20m</source>
-        <translation type="unfinished">20m</translation>
+        <translation>20m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="701"/>
         <source>17m</source>
-        <translation type="unfinished">17m</translation>
+        <translation>17m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="771"/>
         <source>15m</source>
-        <translation type="unfinished">15m</translation>
+        <translation>15m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="841"/>
         <source>12m</source>
-        <translation type="unfinished">12m</translation>
+        <translation>12m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="911"/>
         <source>10m</source>
-        <translation type="unfinished">10m</translation>
+        <translation>10m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="981"/>
         <source>6m</source>
-        <translation type="unfinished">6m</translation>
+        <translation>6m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="1051"/>
         <source>4m</source>
-        <translation type="unfinished">4m</translation>
+        <translation>4m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="1121"/>
         <source>2m</source>
-        <translation type="unfinished">2m</translation>
+        <translation>2m</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="1191"/>
         <source>70cm</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="1261"/>
@@ -6297,7 +6297,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../TCITransceiver.cpp" line="154"/>
         <source>Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkls</translation>
     </message>
     <message>
         <location filename="../TCITransceiver.cpp" line="155"/>
@@ -6546,7 +6546,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../widegraph.ui" line="332"/>
         <source>Start </source>
-        <translation>Sākt</translation>
+        <translation>Sākt </translation>
     </message>
     <message>
         <location filename="../widegraph.ui" line="357"/>
