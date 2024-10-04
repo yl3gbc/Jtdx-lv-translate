@@ -78,8 +78,8 @@
 %1
 Another application may be locking the directory</source>
         <translation>Kļūda izveidojot pagaidu direktoriju:
-% 1
- Cita programma var bloķēt direktoriju</translation>
+%1
+Cita programma var bloķēt direktoriju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1543"/>
@@ -109,7 +109,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1770"/>
         <source>&amp;Load ...</source>
-        <translation>Ielādēt</translation>
+        <translation>&amp;Ielādēt ...</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1774"/>
@@ -124,7 +124,7 @@ Another application may be locking the directory</source>
     <message>
         <location filename="../Configuration.cpp" line="1782"/>
         <source>&amp;Reset</source>
-        <translation>&amp;Nomest </translation>
+        <translation>&amp;Nomest</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2793"/>
@@ -256,36 +256,40 @@ Formāts:
         <location filename="../Configuration.cpp" line="5312"/>
         <location filename="../Configuration.cpp" line="5383"/>
         <source>Hamlib update only available on Mac or Windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib atjauninājums pieejams tikai operētājsistēmā Mac vai Windows.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5320"/>
         <source>Error Loading libhamlib-4.dll</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot failu libhamlib-4.dll, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5322"/>
         <source>Error Loading libhamlib.4.dylib</source>
-        <translation type="unfinished"></translation>
+        <translation>Ielādējot failu libhamlib.4.dylib, radās kļūda</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5344"/>
         <source>Hamlib Update successful 
 
 New Hamlib will be used after restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlib atjaunināšana ir veiksmīga 
+
+Jaunais Hamlibs tiks izmantots pēc restartēšanas</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5375"/>
         <source>Hamlib successfully reverted 
 
 Reverted Hamlib will be used after restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Hamlibs veiksmīgi atgriezās 
+
+Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5380"/>
         <source>No Hamlib update found that could be reverted</source>
-        <translation type="unfinished"></translation>
+        <translation>Netika atrasts neviens Hamlib atjauninājums, ko varētu atsaukt</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="5532"/>
@@ -330,12 +334,12 @@ Reverted Hamlib will be used after restart</source>
         <location filename="../Configuration.cpp" line="6138"/>
         <location filename="../Configuration.cpp" line="6148"/>
         <source>Not a valid frequencies file</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav derīgs frekvenču fails</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6129"/>
         <source>Incorrect file magic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nav derīgs frekvenču neizdodas</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6138"/>
@@ -350,27 +354,27 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../Configuration.cpp" line="6158"/>
         <source>Save Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabājiet darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6168"/>
         <source>Only Save Selected  Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Saglabājiet tikai atlasītās darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6170"/>
         <source>Are you sure you want to save only the working frequencies that are currently selected? Click No to save all.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties saglabāt tikai pašlaik atlasītās darba frekvences? Noklikšķiniet uz Nē, lai saglabātu visu.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6197"/>
         <source>Reset Working Frequencies</source>
-        <translation type="unfinished"></translation>
+        <translation>Atiestatīt darba frekvences</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6199"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atmest pašreizējās darba frekvences un aizstāt tās ar noklusējuma frekvencēm?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6259"/>
@@ -2132,7 +2136,8 @@ Reverted Hamlib will be used after restart</source>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="73"/>
         <source>Failed to connect to DX Lab Suite Commander
 </source>
-        <translation>Kļūda pieslēdzoties pie DX Lab Suite Commander</translation>
+        <translation>Kļūda pieslēdzoties pie DX Lab Suite Commander
+</translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="129"/>
@@ -2162,17 +2167,17 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="297"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling TX frequency: </source>
-        <translation type="unfinished"></translation>
+        <translation>DX Lab Suite Commander nereaģēja pareizi, aptaujājot TX frekvenci: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="316"/>
         <source>DX Lab Suite Commander sent an unrecognised split state: </source>
-        <translation type="unfinished"></translation>
+        <translation>DX Lab Suite Commander nosūtīja neatpazītu sadalīto stāvokli: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="322"/>
         <source>DX Lab Suite Commander didn&apos;t respond correctly polling split status: </source>
-        <translation type="unfinished"></translation>
+        <translation>DX Lab Suite Commander nereaģēja pareizi uz aptaujas sadalījuma statusu: </translation>
     </message>
     <message>
         <location filename="../DXLabSuiteCommanderTransceiver.cpp" line="378"/>
