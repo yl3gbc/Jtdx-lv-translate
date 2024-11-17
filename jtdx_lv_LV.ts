@@ -1392,7 +1392,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="236"/>
         <source>US Virgin Is.</source>
-        <translation>Amerikas Savienoto Valstu Virdžīnu salas</translation>
+        <translation>Amerikas Savienoto Valstu Virdžīnu salas </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="237"/>
@@ -1647,7 +1647,7 @@ Atjaunotā Hamlib tiks izmantota pēc restartēšanas</translation>
     <message>
         <location filename="../logbook/countrydat.cpp" line="287"/>
         <source>Banaba Is.</source>
-        <translation>Banana sala</translation>
+        <translation>Banana sala </translation>
     </message>
     <message>
         <location filename="../logbook/countrydat.cpp" line="288"/>
@@ -3029,7 +3029,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="305"/>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Štats</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="315"/>
@@ -6767,7 +6767,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="452"/>
         <source>Decoded Text Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>Atšifrēts teksta fonts...</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="360"/>
