@@ -2529,27 +2529,27 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: iekārta neatbalsta režīmu</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="444"/>
         <source>Ham Radio Deluxe: sent an unrecognised mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: nosūtīts neatpazīts režīms</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="479"/>
         <source>Ham Radio Deluxe: item not found in %1 dropdown list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: vienums nav atrasts %1 nolaižamajā sarakstā</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="523"/>
         <source>Ham Radio Deluxe: button not available</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: poga nav pieejama</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="889"/>
         <source>Ham Radio Deluxe didn&apos;t respond as expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe nereaģēja, kā gaidīts</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="1038"/>
