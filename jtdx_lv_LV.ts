@@ -5864,32 +5864,32 @@ Lūdzu, pārbaudiet, vai ir norādīts pareizs mapes nosaukums.</translation>
     <message>
         <location filename="../QSYMessageCreator.ui" line="308"/>
         <source>12 M</source>
-        <translation type="unfinished"></translation>
+        <translation>12 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="323"/>
         <source>10 M</source>
-        <translation type="unfinished"></translation>
+        <translation>10 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="338"/>
         <source>6 M</source>
-        <translation type="unfinished"></translation>
+        <translation>6 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="356"/>
         <source>4 M</source>
-        <translation type="unfinished"></translation>
+        <translation>4 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="374"/>
         <source>2 M</source>
-        <translation type="unfinished"></translation>
+        <translation>2 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="389"/>
         <source>70 CM</source>
-        <translation type="unfinished"></translation>
+        <translation>70 CM</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="435"/>
