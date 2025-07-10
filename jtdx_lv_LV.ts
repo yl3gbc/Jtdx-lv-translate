@@ -7062,7 +7062,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="449"/>
         <source>Include a separator line between periods in the band activity window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Joslas aktivitātes logā iekļaujiet atdalītājlīniju starp periodiem.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="452"/>
