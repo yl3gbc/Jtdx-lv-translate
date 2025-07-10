@@ -3029,7 +3029,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="305"/>
         <source>State</source>
-        <translation type="unfinished">Štats</translation>
+        <translation>Štats</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="315"/>
@@ -3066,7 +3066,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.cpp" line="73"/>
         <source>Enter Grid error: 4/6/8/10 char grid will be accepted</source>
-        <translation type="unfinished">kļūda ievadot QTH lokātoru: atbalsta 4/6/8/10 simbolus</translation>
+        <translation>kļūda ievadot QTH lokātoru: atbalsta 4/6/8/10 simbolus</translation>
     </message>
     <message>
         <location filename="../logqso.cpp" line="251"/>
@@ -5492,7 +5492,7 @@ UDP server %2:%3</source>
     <message>
         <location filename="../NetworkAccessManager.cpp" line="38"/>
         <source>Network SSL/TLS Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla SSL/TLS kļūdas</translation>
     </message>
 </context>
 <context>
@@ -5592,24 +5592,26 @@ UDP server %2:%3</source>
         <location filename="../Configuration.cpp" line="6072"/>
         <source>&apos;%1&apos; is write protected.
 Do you want to delete it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; ir rakstīšanas aizsargāts. Vai vēlaties to tik un tā dzēst?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6073"/>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties dzēst &apos;%1&apos;?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6074"/>
         <source>Could not delete directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevarēja izdzēst direktoriju.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6075"/>
         <source>%1
 Directory not found.
 Please verify the correct directory name was given.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1
+Mape nav atrasta.
+Lūdzu, pārbaudiet, vai ir norādīts pareizs mapes nosaukums.</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6077"/>
@@ -5802,62 +5804,62 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="32"/>
         <source>Message Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziņojumu veidotājs</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="87"/>
         <source>QSY</source>
-        <translation type="unfinished"></translation>
+        <translation>QSY</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="122"/>
         <source>Band</source>
-        <translation type="unfinished">Diapazons</translation>
+        <translation>Diapazons</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="143"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>mode</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="188"/>
         <source>160 M</source>
-        <translation type="unfinished"></translation>
+        <translation>160 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="203"/>
         <source>80 M</source>
-        <translation type="unfinished"></translation>
+        <translation>80 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="218"/>
         <source>60 M</source>
-        <translation type="unfinished"></translation>
+        <translation>60 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="233"/>
         <source>40 M</source>
-        <translation type="unfinished"></translation>
+        <translation>40 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="248"/>
         <source>30 M</source>
-        <translation type="unfinished"></translation>
+        <translation>30 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="263"/>
         <source>20 M</source>
-        <translation type="unfinished"></translation>
+        <translation>20 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="278"/>
         <source>17 M</source>
-        <translation type="unfinished"></translation>
+        <translation>17 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="293"/>
         <source>15 M</source>
-        <translation type="unfinished"></translation>
+        <translation>15 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="308"/>
@@ -5892,22 +5894,22 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="435"/>
         <source>FT4</source>
-        <translation type="unfinished">FT4</translation>
+        <translation>FT4</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="450"/>
         <source>FT8</source>
-        <translation type="unfinished">FT8</translation>
+        <translation>FT8</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="465"/>
         <source>JT9</source>
-        <translation type="unfinished">JT9</translation>
+        <translation>JT9</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="480"/>
         <source>JT65</source>
-        <translation type="unfinished">JT65</translation>
+        <translation>JT65</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="495"/>
