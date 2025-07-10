@@ -6992,7 +6992,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="182"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Type 2 compound callsigns are those with prefixes or suffixes not included in the allowed shortlist (See Help-&amp;gt;Add-on prefixes and suffixes).&lt;/p&gt;&lt;p&gt;This option determines which generated messages should contain your full type 2 compound call sign rather than your base callsign. It only applies if you have a type 2 compound callsign.&lt;/p&gt;&lt;p&gt;This option controls the way the messages that are used to answer CQ calls are generated. Generated messages 6 (CQ) and 5 (73) will always contain your full callsign. The JT65 and JT9 protocols allow for some standard messages with your full call at the expense of another piece of information such as the DX call or your locator.&lt;/p&gt;&lt;p&gt;Choosing message 1 omits the DX callsign which may be an issue when replying to CQ calls. Choosing message 3 also omits the DX callsign and many versions of this and other software will not extract the report. Choosing neither means that your full callsign only goes in your message 5 (73) so your QSO partner my log the wrong callsign.&lt;/p&gt;&lt;p&gt;None of these options are perfect, message 3 is best but be aware your QSO partner may not log the report you send them.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;2.&#xa0;tipa saliktie izsaukuma signāli ir tie, kuru prefiksi vai sufiksi nav iekļauti atļauto īsajā sarakstā (skatiet sadaļu Palīdzība&#xa0;—&#xa0;pievienotie prefiksi un sufiksi).&lt;/p&gt;&lt;p&gt;Šī opcija nosaka, kuros ģenerētajos ziņojumos jāiekļauj jūsu pilnais 2.&#xa0;tipa saliktais izsaukuma signāls, nevis jūsu pamata izsaukuma signāls. Tā ir spēkā tikai tad, ja jums ir 2.&#xa0;tipa saliktais izsaukuma signāls.&lt;/p&gt;&lt;p&gt;Šī opcija kontrolē veidu, kā tiek ģenerēti ziņojumi, kas tiek izmantoti, lai atbildētu uz CQ izsaukumiem. Ģenerētajos ziņojumos 6 (CQ) un 5 (73) vienmēr būs ietverts jūsu pilnais izsaukuma signāls. JT65 un JT9 protokoli atļauj dažus standarta ziņojumus ar jūsu pilnu izsaukuma signālu uz citas informācijas, piemēram, DX izsaukuma signāla vai jūsu lokatora, rēķina.&lt;/p&gt;&lt;p&gt;Izvēloties 1.&#xa0;ziņojumu, DX izsaukuma signāls netiek izmantots, kas var radīt problēmas, atbildot uz CQ izsaukumiem. Izvēloties 3.&#xa0;ziņojumu, DX izsaukuma signāls netiek izmantots, un daudzas šīs un citas programmatūras versijas ziņojumu neizvilks. Ja neizvēlēsieties nevienu no šiem variantiem, tas nozīmēs, ka jūsu pilnais izsaukuma signāls tiks iekļauts tikai 5. (73) ziņojumā, tāpēc jūsu QSO partneris var reģistrēt nepareizo izsaukuma signālu.&lt;/p&gt;&lt;p&gt;Neviena no šīm iespējām nav perfekta, 3. ziņojums ir vislabākais, taču ņemiet vērā, ka jūsu QSO partneris var nereģistrēt jūsu nosūtīto ziņojumu.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="189"/>
@@ -7082,7 +7082,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="439"/>
         <source>Append prefix instead of name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pievienot prefiksu nosaukuma vietā.</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="442"/>
