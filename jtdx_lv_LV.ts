@@ -2529,12 +2529,12 @@ Error: %2 - %3</source>
     <message>
         <location filename="../HRDTransceiver.cpp" line="425"/>
         <source>Ham Radio Deluxe: rig doesn&apos;t support mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: iekārta neatbalsta režīmu</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="444"/>
         <source>Ham Radio Deluxe: sent an unrecognised mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Ham Radio Deluxe: nosūtīja neatpazītu režīmu</translation>
     </message>
     <message>
         <location filename="../HRDTransceiver.cpp" line="479"/>
