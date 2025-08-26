@@ -6040,7 +6040,10 @@ Lūdzu, pārbaudiet, vai ir norādīts pareizs mapes nosaukums.</translation>
 &quot;%1&quot;
 to: &quot;%2&quot;
 Error(%3): %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar pārdēvēt failu:
+&quot;%1&quot;
+uz: &quot;%2&quot;
+Kļūda (%3): %4</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="111"/>
@@ -6059,38 +6062,44 @@ Error(%3): %4</source>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="193"/>
         <source>Too many redirects: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pārāk daudz pāradresāciju: %1</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="205"/>
         <source>Redirect not followed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pāradresācija netika ievērota: %1</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="234"/>
         <source>Cannot commit changes to:
 &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar apstiprināt izmaiņas:
+&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="284"/>
         <source>Cannot open file:
 &quot;%1&quot;
 Error(%2): %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar atvērt failu:
+&quot;%1&quot;
+Kļūda (%2): %3</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="297"/>
         <source>Cannot make path:
 &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar izveidot ceļu:
+&quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="308"/>
         <source>Cannot write to file:
 &quot;%1&quot;
 Error(%2): %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevar ierakstīt failā:
+&quot;%1&quot;
+Kļūda (%2): %3</translation>
     </message>
 </context>
 <context>
@@ -7002,7 +7011,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../Configuration.ui" line="194"/>
         <source>Full call in Tx3</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilns zvans Tx3</translation>
     </message>
     <message>
         <location filename="../Configuration.ui" line="199"/>
