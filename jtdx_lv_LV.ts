@@ -5656,7 +5656,7 @@ Lūdzu, pārbaudiet, vai ir norādīts pareizs mapes nosaukums.</translation>
     <message>
         <location filename="../Configuration.cpp" line="6085"/>
         <source>Go to the parent directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodieties uz vecāku direktoriju</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="6086"/>
