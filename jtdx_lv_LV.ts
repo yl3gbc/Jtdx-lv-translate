@@ -3024,7 +3024,8 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="290"/>
         <source>State/Province</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Valsts/Province/? Ka pareizak būs State/Province ??</translatorcomment>
+        <translation>Valsts/Provinces</translation>
     </message>
     <message>
         <source>State</source>
@@ -5791,7 +5792,7 @@ UDP server %2:%3</source>
     <message>
         <location filename="../NetworkAccessManager.cpp" line="38"/>
         <source>Network SSL/TLS Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tīkla SSL/TLS kļūdas</translation>
     </message>
 </context>
 <context>
