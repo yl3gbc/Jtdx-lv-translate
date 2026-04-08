@@ -6357,7 +6357,7 @@ Error(%3): %4</source>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="193"/>
         <source>Too many redirects: %1</source>
-        <translation type="unfinished">Pārāk daudz novirzījumu: %1</translation>
+        <translation>Pārāk daudz novirzījumu: %1</translation>
     </message>
     <message>
         <location filename="../SampleDownloader/RemoteFile.cpp" line="205"/>
@@ -6711,7 +6711,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="25"/>
         <source>An error occurred during write to the audio output device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rakstot audio izvades ierīcē, radās kļūda.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="26"/>
