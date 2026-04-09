@@ -6823,7 +6823,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../StationList.cpp" line="365"/>
         <source>Offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompensācija</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="366"/>
