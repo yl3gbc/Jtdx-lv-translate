@@ -2925,7 +2925,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="48"/>
         <source>&amp;Retry</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mēģināt vēlreiz</translation>
     </message>
     <message>
         <location filename="../JTDXMessageBox.cpp" line="49"/>
