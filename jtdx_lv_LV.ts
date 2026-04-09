@@ -6511,7 +6511,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="183"/>
         <source>BGrid</source>
-        <translation type="unfinished"></translation>
+        <translation>BGrid</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="188"/>
@@ -6631,7 +6631,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="1295"/>
         <source>Cnt</source>
-        <translation type="unfinished"></translation>
+        <translation>Cnt</translation>
     </message>
 </context>
 <context>
