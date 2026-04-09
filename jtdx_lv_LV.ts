@@ -6411,7 +6411,8 @@ Error(%2): %3</source>
     <message>
         <location filename="../SampleDownloader.cpp" line="111"/>
         <source>&amp;Details</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>?/&amp;Detalizēts vai &amp;Detalizēti ka pareizak tulkosies &amp;Details??</translatorcomment>
+        <translation>&amp;Detalizēti</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="115"/>
