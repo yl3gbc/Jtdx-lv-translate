@@ -6556,7 +6556,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="305"/>
         <source> Cnt</source>
-        <translation type="unfinished"></translation>
+        <translation> Cnt</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="315"/>
