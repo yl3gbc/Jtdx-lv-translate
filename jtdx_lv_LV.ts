@@ -6406,7 +6406,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../SampleDownloader.cpp" line="108"/>
         <source>&amp;Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Atsvaidzināt</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="111"/>
