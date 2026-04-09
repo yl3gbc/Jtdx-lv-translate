@@ -6808,7 +6808,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../StationList.cpp" line="320"/>
         <source>Frequency offset</source>
-        <translation type="unfinished"></translation>
+        <translation>Frekvences nobīde</translation>
     </message>
     <message>
         <location filename="../StationList.cpp" line="342"/>
