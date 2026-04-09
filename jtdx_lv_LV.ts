@@ -6401,7 +6401,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../SampleDownloader.cpp" line="107"/>
         <source>&amp;Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pārtraukt</translation>
     </message>
     <message>
         <location filename="../SampleDownloader.cpp" line="108"/>
@@ -6711,7 +6711,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="25"/>
         <source>An error occurred during write to the audio output device.</source>
-        <translation type="unfinished">Rakstot audio izvades ierīcē, radās kļūda.</translation>
+        <translation>Rakstot audio izvades ierīcē, radās kļūda.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="26"/>
