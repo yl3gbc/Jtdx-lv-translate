@@ -3052,7 +3052,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.ui" line="362"/>
         <source>Operator</source>
-        <translation type="unfinished"></translation>
+        <translation>Operators</translation>
     </message>
     <message>
         <location filename="../logqso.ui" line="395"/>
@@ -4000,7 +4000,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="2184"/>
         <source> %</source>
-        <translation type="unfinished"></translation>
+        <translation> %</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2187"/>
@@ -6167,7 +6167,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="323"/>
         <source>10 M</source>
-        <translation type="unfinished"></translation>
+        <translation>10 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="338"/>
