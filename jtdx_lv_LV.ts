@@ -3990,7 +3990,7 @@ list. The list can be maintained in Settings (F2).</source>
         <location filename="../mainwindow.ui" line="1127"/>
         <location filename="../mainwindow.ui" line="1179"/>
         <source>0</source>
-        <translation type="unfinished">0</translation>
+        <translation>0</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="815"/>
@@ -4020,7 +4020,7 @@ list. The list can be maintained in Settings (F2).</source>
     <message>
         <location filename="../mainwindow.ui" line="2419"/>
         <source> s</source>
-        <translation type="unfinished"> s</translation>
+        <translation> s</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="2490"/>
@@ -4094,7 +4094,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="5014"/>
         <source>30m</source>
-        <translation type="unfinished">30m</translation>
+        <translation>30m</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5030"/>
@@ -4888,7 +4888,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="7017"/>
         <source>Disabled</source>
-        <translation type="unfinished">Atslēgt</translation>
+        <translation>Atslēgt</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="7081"/>
