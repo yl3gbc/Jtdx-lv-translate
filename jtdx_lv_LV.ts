@@ -6127,32 +6127,32 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="203"/>
         <source>80 M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">80 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="218"/>
         <source>60 M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">60 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="233"/>
         <source>40 M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">40 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="248"/>
         <source>30 M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="263"/>
         <source>20 M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">20 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="278"/>
         <source>17 M</source>
-        <translation type="unfinished"></translation>
+        <translation>17 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="293"/>
@@ -6172,17 +6172,17 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="338"/>
         <source>6 M</source>
-        <translation type="unfinished"></translation>
+        <translation>6 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="356"/>
         <source>4 M</source>
-        <translation type="unfinished"></translation>
+        <translation>4 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="374"/>
         <source>2 M</source>
-        <translation type="unfinished"></translation>
+        <translation>2 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="389"/>
@@ -6192,12 +6192,12 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="435"/>
         <source>FT4</source>
-        <translation type="unfinished">FT4</translation>
+        <translation>FT4</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="450"/>
         <source>FT8</source>
-        <translation type="unfinished">FT8</translation>
+        <translation>FT8</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="465"/>
