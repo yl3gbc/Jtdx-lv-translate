@@ -3090,7 +3090,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../mainwindow.ui" line="175"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avg: accumulated average DT of decoded signals on current band.&lt;/p&gt;&lt;p&gt;Lag: it is decoder lag calculated relatively to beginning of next interval, negative values mean there is spare time available to increase decoding depth, positive values is decoder&apos;s lag into TX or next interval meaning there may be no enough CPU resources for selected decoding depth to provide reliable signal transmission.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lag depends on CPU performance, noise conditions, band fullness and other programs using computer, it can be decreased by reducing waterfall bandwidth. If Lag is constantly negative then CPU handling well interval decoding and you can try to make decoding more aggressive to get more decodes.&lt;/p&gt;&lt;p&gt;FT8: if Lag is 0 .. 0.4 then you can still use Autoseq 3/7 (autoselect will trigger change of TX message early enough to transmit full message). If Lag &gt; 0.4 then you should try to decrease decoding aggressivity. If still Lag &gt; 0.4 then Autoseq 2/6 should be used as responding to incoming call will be partially damaged at transmission in AutoSeq 3/7. If constantly Lag  &gt; 2 then your CPU is unsuitable to operate in FT8 with current decoder settings. Sure You can monitor as SWL.&lt;/p&gt;&lt;p&gt;/xx: number of decoded messages in last interval.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Avg: dekodēto signālu uzkrātais vidējais DT uz pašreizējo joslu.&lt;/p&gt;&lt;p&gt;Lag: tas ir dekodera aizkavējums, kas aprēķināts attiecībā pret nākamā intervāla sākumu, negatīvas vērtības nozīmē, ka ir pieejams rezerves laiks, lai palielinātu dekodēšanas dziļumu, pozitīvas vērtības ir dekodera aizkavējums TX vai nākamajā intervālā, kas nozīmē, ka var nebūt pietiekami daudz CPU resursu izvēlētajam dekodēšanas dziļumam, lai nodrošinātu uzticamu signāla pārraidi.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Lag ir atkarīgs no CPU veiktspējas, trokšņa apstākļiem, joslas pilnības un citām programmām, kas izmanto datoru, to var samazināt, samazinot ūdenskrituma joslas platumu. Ja Lag ir pastāvīgi negatīvs, tad CPU labi apstrādā intervāla dekodēšanu un jūs varat mēģināt padarīt dekodēšanu agresīvāku, lai iegūtu vairāk dekodējumu.&lt;/p&gt;&lt;p&gt;FT8: ja Lag ir 0 .. 0.4, tad jūs joprojām varat izmantot Autoseq 3/7 (automātiskā atlase aktivizēs TX ziņojuma maiņu pietiekami agri, lai pārraidītu pilnu ziņojumu). Ja Lag &gt; 0.4, tad jums vajadzētu mēģināt samazināt dekodēšanas agresivitāti. Ja joprojām Lag &gt; 0.4, tad jāizmanto Autoseq 2/6, jo atbildēšana uz ienākošo zvanu tiks daļēji sabojāta pārraidē Autoseq 3/7. Ja pastāvīgi Lag  &gt; 2, tad jūsu CPU nav piemērots darbam FT8 ar pašreizējiem dekodera iestatījumiem. Protams, jūs varat uzraudzīt kā SWL.&lt;/p&gt;&lt;p&gt;/xx: pēdējo intervālu dekodēto ziņojumu skaits.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="181"/>
@@ -4109,7 +4109,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="5103"/>
         <source>12m FT8</source>
-        <translation type="unfinished"></translation>
+        <translation>12m FT8</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5106"/>
@@ -4236,7 +4236,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
         <location filename="../mainwindow.ui" line="5239"/>
         <location filename="../mainwindow.ui" line="5242"/>
         <source>12m FT4</source>
-        <translation type="unfinished"></translation>
+        <translation>12m FT4</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5249"/>
@@ -4853,7 +4853,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="6961"/>
         <source>0  Call None</source>
-        <translation type="unfinished"></translation>
+        <translation>0  Zvanīt nevienam</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="6969"/>
@@ -6122,7 +6122,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="188"/>
         <source>160 M</source>
-        <translation type="unfinished"></translation>
+        <translation>160 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="203"/>
@@ -6157,12 +6157,12 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="293"/>
         <source>15 M</source>
-        <translation type="unfinished"></translation>
+        <translation>15 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="308"/>
         <source>12 M</source>
-        <translation type="unfinished"></translation>
+        <translation>12 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="323"/>
@@ -6521,7 +6521,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../showqsos.ui" line="201"/>
         <source>Show count list as ToolTip.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rādīt skaita sarakstu kā ToolTip.</translation>
     </message>
     <message>
         <location filename="../showqsos.ui" line="245"/>
@@ -6707,7 +6707,7 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="24"/>
         <source>An error opening the audio output device has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Atverot audio izvades ierīci, radās kļūda.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="25"/>
@@ -6717,22 +6717,22 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="26"/>
         <source>Audio data not being fed to the audio output device fast enough.</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio dati netiek pietiekami ātri padoti uz audio izvades ierīci.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="27"/>
         <source>Non-recoverable error, audio output device not usable at this time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neatkopjama kļūda, audio izvades ierīce pašlaik nav izmantojama.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="45"/>
         <source>Requested output audio format is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pieprasītais izvades audio formāts nav derīgs.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="46"/>
         <source>Requested output audio format is not supported on device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pieprasītais izvades audio formāts ierīcē netiek atbalstīts.</translation>
     </message>
     <message>
         <location filename="../soundout.cpp" line="109"/>
