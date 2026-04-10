@@ -3072,7 +3072,7 @@ Error: %2 - %3</source>
     <message>
         <location filename="../logqso.cpp" line="78"/>
         <source>Enter Grid error: 4/6/8/10 char grid will be accepted</source>
-        <translation type="unfinished">kļūda ievadot QTH lokātoru: atbalsta 4/6/8/10 simbolus</translation>
+        <translation>kļūda ievadot QTH lokātoru: atbalsta 4/6/8/10 simbolus</translation>
     </message>
     <message>
         <location filename="../logqso.cpp" line="263"/>
@@ -6102,7 +6102,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="32"/>
         <source>Message Creator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziņas veidotājs</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="87"/>
@@ -6117,7 +6117,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="143"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Režīms</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="188"/>
@@ -6127,27 +6127,27 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="203"/>
         <source>80 M</source>
-        <translation type="unfinished">80 M</translation>
+        <translation>80 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="218"/>
         <source>60 M</source>
-        <translation type="unfinished">60 M</translation>
+        <translation>60 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="233"/>
         <source>40 M</source>
-        <translation type="unfinished">40 M</translation>
+        <translation>40 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="248"/>
         <source>30 M</source>
-        <translation type="unfinished">30 M</translation>
+        <translation>30 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="263"/>
         <source>20 M</source>
-        <translation type="unfinished">20 M</translation>
+        <translation>20 M</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="278"/>
@@ -6202,7 +6202,7 @@ Please verify the correct directory name was given.</source>
     <message>
         <location filename="../QSYMessageCreator.ui" line="465"/>
         <source>JT9</source>
-        <translation type="unfinished">JT9</translation>
+        <translation>JT9</translation>
     </message>
     <message>
         <location filename="../QSYMessageCreator.ui" line="480"/>
