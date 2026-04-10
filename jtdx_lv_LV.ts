@@ -4174,7 +4174,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="5172"/>
         <source>80m</source>
-        <translation type="unfinished">80m</translation>
+        <translation>80m</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5179"/>
@@ -4184,7 +4184,7 @@ Sync button in active state has yellow color and shows current value of JTDX tim
     <message>
         <location filename="../mainwindow.ui" line="5182"/>
         <source>20m</source>
-        <translation type="unfinished">20m</translation>
+        <translation>20m</translation>
     </message>
     <message>
         <location filename="../mainwindow.ui" line="5189"/>
