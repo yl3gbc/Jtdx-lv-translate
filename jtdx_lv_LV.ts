@@ -6712,7 +6712,11 @@ Error(%2): %3</source>
     <message>
         <location filename="../soundout.cpp" line="25"/>
         <source>An error occurred during write to the audio output device.</source>
+<<<<<<< HEAD
         <translation>Rakstot audio izvades ierīcē, radās kļūda.</translation>
+=======
+        <translation type="unfinished">Rakstot audio izvades ierīcē, radās kļūda.</translation>
+>>>>>>> 21d083b39452893d0da9ccb002932e6143167c07
     </message>
     <message>
         <location filename="../soundout.cpp" line="26"/>
